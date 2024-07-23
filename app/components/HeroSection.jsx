@@ -44,6 +44,13 @@ const HeroSection = () => {
   <Button className="bg-white text-black border-2 border-transparent hover:bg-white border-neutral-300 py-3 px-4 rounded-md">
     Go to dashboard
   </Button>
+
+</Link>
+<Link href="/employerdashboard">
+  <Button className="bg-white text-black border-2 border-transparent hover:bg-white border-neutral-300 py-3 px-4 rounded-md">
+    Go to employerdashboard
+  </Button>
+  
 </Link>
 
         
